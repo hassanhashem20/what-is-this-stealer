@@ -10,8 +10,9 @@ rule ArechClientV2
         $x2 = "HWID:" ascii
         $x3 = "Available KeyboardLayouts:" ascii
         $x4 = "Hardwares:" ascii
-        $y1 = "MachineName:" ascii
+        $y1 = "Width =" ascii
 
     condition:
-        ($x1 and $x2 and $x3 and $x4) and not $y1
+        all of them
+
 }
