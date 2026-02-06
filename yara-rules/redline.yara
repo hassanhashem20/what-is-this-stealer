@@ -9,10 +9,11 @@ rule RedLine
         $x1 = "Build ID: " ascii
         $x2 = "FileLocation:" ascii
         $x3 = "UserName:" ascii
-        $x4 = "MachineName:" ascii
+        $x4 = "Width=" ascii
         $x5 = "Log date:" ascii
         $x6 = "Hardwares:" ascii
 
     condition:
         all of them
+
 }
