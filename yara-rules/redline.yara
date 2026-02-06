@@ -11,9 +11,10 @@ rule RedLine
         $x3 = "UserName:" ascii
         $x4 = "Width=" ascii
         $x5 = "Log date:" ascii
-        $x6 = "Hardwares:" ascii
+        $x6 = "KeyboardLayouts:" ascii
 
     condition:
         all of them
 
 }
+
