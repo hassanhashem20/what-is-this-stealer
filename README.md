@@ -1,4 +1,4 @@
-![What is this stealer](logo_light.png#gh-light-mode-only)
+<img width="884" height="504" alt="image" src="https://github.com/user-attachments/assets/0705c7a2-5272-4900-9361-2fbe2cfffd74" />![What is this stealer](logo_light.png#gh-light-mode-only)
 ![What is this stealer](logo.png#gh-dark-mode-only)
 
 # What is this Stealer [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=What%20is%20this%20Stealer%20-%20A%20repository%20of%20credential%20stealer%20formats%20for%20system%20information%20by%20@MalBeacon&url=https://github.com/MalBeacon/what-is-this-stealer&hashtags=threatintel,infosec)
@@ -26,6 +26,72 @@ Chrome Default - version: [version string]
 Edge Default - version: [version string]
 ```
 
+
+## MacSync Stealer (Information.txt)
+```
+Build Tag: Pablo
+Version: 1.1.2_release (x64_86 & ARM)
+IP: 213.163.111.244
+Username: ritafetahi
+Password: ritamac
+Software:
+
+    System Software Overview:
+
+      System Version: macOS 15.7.3 (24G419)
+      Kernel Version: Darwin 24.6.0
+      Boot Volume: Macintosh HD
+      Boot Mode: Normal
+      Computer Name: Ritas MacBook Pro
+      User Name: Rita Fetahi (ritafetahi)
+      Secure Virtual Memory: Enabled
+      System Integrity Protection: Enabled
+      Time since boot: 10 days, 8 hours, 21 minutes
+
+Hardware:
+
+    Hardware Overview:
+
+      Model Name: MacBook Pro
+      Model Identifier: MacBookPro15,4
+      Processor Name: Quad-Core Intel Core i5
+      Processor Speed: 1,4 GHz
+      Number of Processors: 1
+      Total Number of Cores: 4
+      L2 Cache (per Core): 256 KB
+      L3 Cache: 6 MB
+      Hyper-Threading Technology: Enabled
+      Memory: 8 GB
+      System Firmware Version: 2094.40.1.0.0 (iBridge: 23.16.12048.0.0,0)
+      OS Loader Version: 583~2317
+      Serial Number (system): C02YWJC8L40Y
+      Hardware UUID: 51AFC184-48C9-5643-BBFF-D2B806447E8C
+      Provisioning UDID: 51AFC184-48C9-5643-BBFF-D2B806447E8C
+      Activation Lock Status: Enabled
+
+Graphics/Displays:
+
+    Intel Iris Plus Graphics 645:
+
+      Chipset Model: Intel Iris Plus Graphics 645
+      Type: GPU
+      Bus: Built-In
+      VRAM (Dynamic, Max): 1536 MB
+      Vendor: Intel
+      Device ID: 0x3ea6
+      Revision ID: 0x0001
+      Metal Support: Metal 3
+      Displays:
+        Color LCD:
+          Display Type: Built-In Retina LCD
+          Resolution: 2560 x 1600 Retina
+          Framebuffer Depth: 24-Bit Color (ARGB8888)
+          Main Display: Yes
+          Mirror: Off
+          Online: Yes
+          Automatically Adjust Brightness: Yes
+          Connection Type: Internal
+```
 ## ArechClientV2 (UserInformation.txt)
 
 ```
