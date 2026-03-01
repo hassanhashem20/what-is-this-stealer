@@ -1,4 +1,3 @@
-<img width="884" height="504" alt="image" src="https://github.com/user-attachments/assets/0705c7a2-5272-4900-9361-2fbe2cfffd74" />![What is this stealer](logo_light.png#gh-light-mode-only)
 ![What is this stealer](logo.png#gh-dark-mode-only)
 
 # What is this Stealer [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=What%20is%20this%20Stealer%20-%20A%20repository%20of%20credential%20stealer%20formats%20for%20system%20information%20by%20@MalBeacon&url=https://github.com/MalBeacon/what-is-this-stealer&hashtags=threatintel,infosec)
