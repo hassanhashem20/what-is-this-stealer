@@ -24,8 +24,49 @@ Browsers:
 Chrome Default - version: [version string]
 Edge Default - version: [version string]
 ```
+## Aura Stealer (System.txt)
+```
+AURA v1.3.0
 
+HWID: ff146637-676d-48d6-9c27-673d29a0fb1d
+Launched at: 
+   Local time: 2025-08-15 23:30:33
+   UTC time: 2025-08-15 18:00:33
+Location: C:\Windows\Microsoft.NET\Framework\v4.0.30319\aspnet_wp.exe
+Run as Admin: No
+User in Admins group: Yes
+Running on: Laptop
 
+[System Info]
+   OS Name: Windows 10 Home Single Language
+   Edition: CoreSingleLanguage
+   Version: 10.0.26100/1/x64
+   Build Number: 26100
+   Build Lab: 26100.ge_release.240331-1435
+   Install Date: Jan 12 2025 15:21:41
+   Product Id: 00342-42697-21431-AAOEM
+   Architecture: x64
+   Language: en-IN
+   Keyboard Layouts: en-US, en-US, hi-IN, hi-IN
+   Time Zone: Asia/Calcutta UTC+05:30
+   Computer Name: LAPTOP-6OH07NBC
+   User Name: Omnau
+   Screen resolution: 1536x864
+
+[Hardware]
+   CPU: 12th Gen Intel(R) Core(TM) i5-12450HX (12 cores)
+   RAM: 16159 MB (Used 7734 MB)
+   GPUs: NVIDIA GeForce RTX 3050 6GB Laptop GPU 
+
+[Processes List]
+   [System Process] [0]
+   System [4]
+   Secure System [188]
+
+[Installed Software]
+   Adobe Creative Cloud (6.7.0.278)
+
+```
 ## MacSync Stealer (Information.txt)
 ```
 Build Tag: Pablo
