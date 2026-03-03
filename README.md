@@ -4,7 +4,39 @@
 **A repository of credential stealer formats for system information (e.g information.txt, system_info.txt etc...)**
 
 Your [contributions](contributing.md) are always welcome !
-
+## Misericorde (UserInformation.txt)
+```
+       (|)
+  _____/|\_____
+ /____( * )____\ 
+ __  _ |_|              +                   _     
+|  \/  |_|___  ___ _ __(_) ___ ___  _ __ __| | ___ 
+| |\/| | / __|/ _ \ '__| |/ __/ _ \| '__/ _` |/ _ \
+| |  | | \__ \  __/ |  | | (_| (_) | | | (_| |  __/
+|_|  |_|_|___/\___|_|  |_|\___\___/|_|  \__,_|\___|
+       | |
+       | |
+       \_/
+Username: migue
+Hostname: MIGUEL
+FileLocation: C:\ProgramData\Neptune\falcon.exe
+IP: 73.39.57.36
+Country: United States (US)
+Timezone: America/New_York
+City: Parkville
+Hwid: 462B9F6317162517FD6EF7534964B0797B88151B09A793AEAA5250865216C0E7
+Logdate: 2026-01-19 05:04:16
+Buildtag: cherry118
+[System]
+OS Product: Windows 10 Pro 25H2 x64 (26200)
+Screensize: 2560x1440
+Keyboard: Espaol (Espaa, internacional), Espaol (Espaa, internacional)
+System Language: es-SV
+[Hardware]
+GPU: AMD Radeon RX 7900 GRE
+CPU: AMD Ryzen 9 7900X 12-Core Processor
+RAM: 31955 MB
+```
 ## Ailurophile (info.txt)
 
 ```
