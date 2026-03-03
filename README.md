@@ -1127,6 +1127,21 @@ System Summary:
  - Display Resolution: 1600x900
  - GPU:
           -Intel(R) HD Graphics 5500
+User Agents:
+
+Installed Apps:
+All Users:
+	Driver Booster 11 - 11.6.0
+	Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.21005 - 12.0.21005
+	Realtek Card Reader - 10.0.15063.28162
+Current User:
+	TIDAL - 2.35.0
+
+Process List:
+	System
+	smss.exe
+	csrss.exe
+	wininit.exe		  
 ```
 
 ## Stealerium (Info.txt)
