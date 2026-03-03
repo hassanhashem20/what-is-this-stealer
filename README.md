@@ -4,6 +4,33 @@
 **A repository of credential stealer formats for system information (e.g information.txt, system_info.txt etc...)**
 
 Your [contributions](contributing.md) are always welcome !
+
+## MaskGram Stealer (systems.txt)
+```
++ Date: 06/01/2026
++ Country: India - IN
++ IP: 223.185.249.133
++ Processor: 11th Gen Intel(R) Core(TM) i3-1115G4 @ 3.00GHz
++ CPU Cores: 4
++ CPU Architecture: x64
++ Total RAM: 7930 MB
++ Available RAM: 462 MB
++ Operating System: Windows 10 Home Single Language (Build 26100)
+- Computer Name: KARTHIK
+- User Name: rajit
+- Path: C:\Users\rajit\AppData\Local\Temp\11816070101\bgIzcNk.exe
++ Disk Space (C:): 113 GB used / 457 GB total
++ Free Space: 344 GB
++ System Date: 06/01/2026 IST
++ System Time: 17:30:06 IST
++ Timezone: India Standard Time (UTC+5:30)
++ System Uptime: 4 hours, 5 minutes
++ System Language: en-IN
++ User Language: English
++ Keyboard Language: English
++ Screen Resolution: 1536x864
++ GPU: Intel(R) UHD Graphics
+```
 ## Misericorde (UserInformation.txt)
 ```
        (|)
