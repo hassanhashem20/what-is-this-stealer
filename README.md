@@ -24,6 +24,28 @@ Browsers:
 Chrome Default - version: [version string]
 Edge Default - version: [version string]
 ```
+## MilleniumRAT (PC_info.txt)
+```
+🖥Computer info:
+System: Microsoft Windows 11 Pro (x64)
+User name: HP PRO DESK
+System time: 2026-01-04 07:53:49 PM
+CPU: AMD Ryzen 5 5600G with Radeon Graphics         
+GPU: AMD Radeon(TM) Graphics
+RAM: 14126 MB
+HWID: 178BFBFF00A50F00
+
+🛡Security:
+Installed antivirus: Windows Defender.
+Started as admin: True
+
+📡Whois:
+IP: 38.25.53.177
+Country: Peru [PE]
+City: Lima
+Region: Lima Province
+Internet provider: Wi-net Telecom S.A.C.
+```
 ## Aura Stealer (System.txt)
 ```
 AURA v1.3.0
